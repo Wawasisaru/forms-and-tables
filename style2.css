@@ -1,0 +1,17 @@
+body{
+    background-image: url("./office-unsplash.jpg");
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: 700px;
+    margin-left: 300px;
+    width: 500px;
+    height: 400px;
+}
+form{
+    margin-left: 300px;
+    padding-left: 200px;
+};
+.officeReg{
+    float:right;
+    margin-right: 240px;
+}
